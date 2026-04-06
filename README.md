@@ -5,10 +5,7 @@ This project analyzes the **productivity and efficiency of Brazilian healthcare 
 ---
 
 ## 📁 Project Structure
-
-- **Bases**: datasets used in the analysis  
 - **Notebooks**: all project notebooks  
-- **Figuras**: visualizations generated during the analysis  
 
 ---
 
