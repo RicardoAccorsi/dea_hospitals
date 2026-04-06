@@ -50,43 +50,71 @@ Presents the main analyses derived from the Malmquist Index:
 
 ## 📊 Results & Insights
 
-### 🔍 Productivity Dynamics
-The analysis shows that productivity changes are driven by two main components:
-- **Catch-up effect:** improvements in how efficiently regions use resources  
-- **Frontier shift:** changes in the overall production frontier (technology/system-level changes)
-
-Different regions exhibit distinct patterns, with some improving efficiency while others benefit from broader system advancements.
+### 📈 Overall Productivity Growth
+Hospital productivity in Brazil’s public health system (SUS) increased by **5.36% between 2019 and 2024**. This growth, however, was not driven by improvements in operational efficiency, but rather by external factors.
 
 ---
 
-### 📈 Heterogeneity Across Regions
-There is significant variation in performance:
-- Some regions show **consistent productivity gains over time**
-- Others experience **persistent decline**, indicating structural inefficiencies
-- The top-performing regions differ substantially from the worst-performing ones, highlighting inequality in healthcare delivery
+### ⚙️ Efficiency vs. Technological Change
+Productivity dynamics reveal a clear trade-off:
+
+- **Technological Change (TC): +17.69%**  
+  Significant advancements in the production frontier, likely reflecting improved infrastructure, medical technologies, and system-level improvements.
+
+- **Efficiency Change (EC): -10.95%**  
+  A decline in how efficiently hospitals utilize available resources, indicating persistent **managerial and operational inefficiencies**.
+
+👉 In short: **technology is improving, but hospitals are not keeping up in terms of internal efficiency.**
 
 ---
 
-### 🏥 Hospital Stratification Effects
-When analyzing hospitals by characteristics (e.g., size or structure):
-- Productivity trends vary across groups  
-- Certain types of hospitals demonstrate **more stable efficiency gains**, while others are more volatile  
+### 🌍 Regional and Structural Inequality
+Performance varies significantly across regions and hospital profiles:
+
+- **Urban and high-income regions**:
+  - Higher efficiency levels  
+  - Consistent productivity gains  
+  - Better access to infrastructure and resources  
+
+- **Rural and smaller hospitals**:
+  - Declining efficiency  
+  - Greater difficulty in resource allocation and management  
+  - More vulnerable to structural constraints  
 
 ---
 
-### 📉 Cumulative Productivity Trends
-Cumulative analysis reveals:
-- Long-term divergence between regions  
-- Some regions consistently move closer to the efficiency frontier  
-- Others fall behind, suggesting the need for targeted policy intervention  
+### 🏥 Hospital Characteristics
+Key institutional differences were observed:
+
+- **Large hospitals and teaching hospitals**:
+  - Higher efficiency  
+  - Stronger productivity growth  
+  - Likely benefit from scale and knowledge diffusion  
+
+- **Specialized hospitals**:
+  - Lower productivity growth compared to general hospitals  
 
 ---
 
-### 🎯 Key Takeaways
-- Hospital productivity is **highly heterogeneous across regions**  
-- Improvements are not uniform and depend on both **efficiency gains and systemic changes**  
-- The Malmquist Index provides a powerful framework to track **dynamic performance over time**  
-- Results can support **data-driven policy and resource allocation decisions**  
+### 🔍 Key Takeaways
+- Productivity gains in the SUS are primarily driven by **technological progress rather than efficiency improvements**  
+- There is **significant heterogeneity** across regions and hospital types  
+- Structural and socioeconomic factors play a central role in determining performance  
+- Improving **managerial efficiency** remains a critical challenge  
+
+---
+
+### 🎯 Policy Implications
+The results suggest that effective healthcare policies should:
+
+- Complement technological investments with **operational efficiency improvements**  
+- Address **regional inequalities** in infrastructure and resources  
+- Support smaller and rural hospitals with targeted interventions  
+- Promote best practices from high-performing hospitals  
+
+---
+
+Overall, this study highlights that while the system is advancing technologically, **sustainable productivity gains will depend on improving how resources are managed and utilized**.
 
 ---
 
